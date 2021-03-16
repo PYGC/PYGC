@@ -48,14 +48,11 @@
 ![Adobe Photoshop](https://img.shields.io/badge/-Abode%20Photoshop-31A8FF?style=flat-square&logo=Adobe-Photoshop&logoColor=white)
 ![Adobe Illustrator](https://img.shields.io/badge/-Abode%20Illustrator-FF9A00?style=flat-square&logo=Adobe-Illustrator&logoColor=white)
 ![Inkscape](https://img.shields.io/badge/-Inkscape-000000?style=flat-square&logo=Inkscape&logoColor=white)
-![Font Awesome](https://img.shields.io/badge/Font%20Awesome-444444?style=flat-square&logo=Font-Awesome&logoColor=339AF0)
-![Material Design Icons](https://img.shields.io/badge/Material%20Design%20Icons-444444?style=flat-square&logo=Material-Design-Icons&logoColor=2196F3)
-![Material UI](https://img.shields.io/badge/Material%20UI-444444?style=flat-square&logo=Material-UI&logoColor=0081CB)
 
-![Android](https://img.shields.io/badge/-Android-444444?style=flat-square&logo=android)
-![Linux](https://img.shields.io/badge/-Linux-444444?style=flat-square&logo=linux)
-![Ubuntu](https://img.shields.io/badge/-Ubuntu-444444?style=flat-square&logo=Ubuntu)
-![Windows](https://img.shields.io/badge/-Windows-444444?style=flat-square&logo=windows&logoColor=0078D6)
+![Android](https://img.shields.io/badge/-Android-3DDC84?style=flat-square&logo=android&logoColor=white)
+![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=white)
+![Ubuntu](https://img.shields.io/badge/-Ubuntu-E95420?style=flat-square&logo=Ubuntu&logoColor=white)
+![Windows](https://img.shields.io/badge/-Windows-0078D6?style=flat-square&logo=windows&logoColor=white)
 
 ![Alibaba Cloud](https://img.shields.io/badge/-Alibaba%20Cloud-444444?style=flat-square&logo=Alibaba-Cloud)
 ![Vultr](https://img.shields.io/badge/Vultr-444444?style=flat-square&logo=Vultr&logoColor=007BFC)
