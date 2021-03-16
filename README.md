@@ -39,10 +39,10 @@
 ![Jupyter](https://img.shields.io/badge/-Jupyter-F37626?style=flat-square&logo=Jupyter&logoColor=white)
 
 ![IAR Embedded Workbench](https://img.shields.io/badge/-IAR%20Embedded%20Workbench-444444?style=flat-square&logo=data:image/webp;base64,UklGRhgBAABXRUJQVlA4TAsBAAAvD8ADEAoEbdtmnMwf3XcOnTrmMwK3tm1V1cUhtDoowOmAQWZluEWukbtr6O7wW+C9/BtuoZ9MYrJ5jhjz7Yw7ar7JA3pmWOmtYXlnlekDSsyx3wH/+HvFAbvNGpBJdnljk/MurLPe/7abZJF33rpm+FzythY4ZvDGXi+253Z6U0e9Nnhjj2ffpcZ8McQF3z5n/F/ffDH4ZIvLri6XrPbB4JvXBj8ccssTj+8urtvru8GYI61HdnjlryRe2ui+oY6Z7//64bJlFlnSs9T5GLyx0ERb/Tb47o7l5p7l8aN+227SgMx03m9D/fQ5NfRcMmtAiZm2emtY3tpu1oCeyeY7aty3M+64BSYPKAEA&logoColor=3DDC84)
-![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-444444?style=flat-square&logo=Visual-Studio-Code&logoColor=007ACC)
+![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?style=flat-square&logo=Visual-Studio-Code&logoColor=white)
 ![Visual Studio](https://img.shields.io/badge/-Visual%20Studio-5C2D91?style=flat-square&logo=Visual-Studio&logoColor=white)
 ![Eclipse IDE](https://img.shields.io/badge/-Eclipse%20IDE-2C2255?style=flat-square&logo=Eclipse-IDE&logoColor=white)
-![Android Studio](https://img.shields.io/badge/-Android%20Studio-444444?style=flat-square&logo=android-studio&logoColor=3DDC84)
+![Android Studio](https://img.shields.io/badge/-Android%20Studio-3DDC84?style=flat-square&logo=android-studio&logoColor=white)
 
 ![Adobe Acrobat Reader](https://img.shields.io/badge/-Adobe%20Acrobat%20Reader-EC1C24?style=flat-square&logo=Adobe-Acrobat-Reader&logoColor=white)
 ![Adobe Photoshop](https://img.shields.io/badge/-Abode%20Photoshop-31A8FF?style=flat-square&logo=Adobe-Photoshop&logoColor=white)
@@ -54,8 +54,8 @@
 ![Ubuntu](https://img.shields.io/badge/-Ubuntu-E95420?style=flat-square&logo=Ubuntu&logoColor=white)
 ![Windows](https://img.shields.io/badge/-Windows-0078D6?style=flat-square&logo=windows&logoColor=white)
 
-![Alibaba Cloud](https://img.shields.io/badge/-Alibaba%20Cloud-444444?style=flat-square&logo=Alibaba-Cloud)
-![Vultr](https://img.shields.io/badge/Vultr-444444?style=flat-square&logo=Vultr&logoColor=007BFC)
+![Alibaba Cloud](https://img.shields.io/badge/-Alibaba%20Cloud-FF6A00?style=flat-square&logo=Alibaba-Cloud&logoColor=white)
+![Vultr](https://img.shields.io/badge/Vultr-007BFC?style=flat-square&logo=Vultr&logoColor=white)
 ![NGINX](https://img.shields.io/badge/-NGINX-269539?style=flat-square&logo=nginx&logoColor=white)
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=Docker&logoColor=white)
 
